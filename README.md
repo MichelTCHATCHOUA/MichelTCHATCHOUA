@@ -1,7 +1,7 @@
 # 👋 Salut, moi c'est Michel !
 
 🎓 Étudiant à l’ESIEA Paris  
-📚 Alternant en développement (MATLAB)  
+📚 Alternant en développement – MATLAB & Traitement de données  
 👨‍💻 Passionné par l’IA & la Data Science  
 🎯 Objectif : devenir Data Scientist
 
