@@ -21,14 +21,22 @@
 - 🔍 **Analyseur de fichiers en C**  
   Lecture et traitement de fichiers (PDF, Word, TXT) pour compter mots, lignes, palindromes et afficher la fréquence d'apparition des mots les plus récurrents.
 
+
 - 🎙️ **Mind and Moove**  
   Projet de sensibilisation à la malnutrition via un compte Instagram & podcast.  
   [→ Voir sur Instagram](https://www.instagram.com/projet_mindandmove)
 
+
+- 📊 **Supermarket Sales Analysis**  
+  Analyse exploratoire des ventes d’un supermarché à partir d’un dataset public.  
+  Insights sur les ventes par ville, catégorie de produit, branche, horaire et profil client.  
+  [→ Voir sur GitHub](https://github.com/MichelTCHATCHOUA/supermarket-sales-analysis)
+
+
 - 📊 **[À venir] Projet Data/IA**  
   Deux projets en Python pour analyser des datasets publics:
     → Analyse des ventes d’un supermarché
-    → Analyse des données COVID
+    → Analyse des données COVID et autres datasets publics en Python
 
 ---
 
