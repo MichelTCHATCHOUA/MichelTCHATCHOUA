@@ -40,6 +40,11 @@
   Neutralisation de l'effet de structure par âge et extraction de conclusions démographiques robustes.  
   [→ Voir sur GitHub](https://github.com/MichelTCHATCHOUA/Analyse-Mortalite-Azerbaidjan-Norvege-1990)
 
+- 🌸 **Classification d'Iris avec Analyse Discriminante Bayésienne**  
+  Implémentation complète d'un système de classification bayésienne sur le dataset Iris.  
+  Modélisation probabiliste avec GMM, évaluation des performances et visualisations avancées.  
+  [→ Voir sur GitHub](https://github.com/MichelTCHATCHOUA/Analyse-Statistique-Iris)
+
 - 📊 **[À venir] Projets Data/IA**  
   Analyse de datasets publics en Python (COVID-19, données environnementales, etc.)
 
