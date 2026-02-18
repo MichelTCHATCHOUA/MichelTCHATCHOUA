@@ -1,6 +1,7 @@
 # 👋 Salut, moi c'est Michel Peslier !
 
 🎯 Data Scientist Junior  
+🎓 Double Master Mathématiques appliquées aux statistiques & probabilités  
 🧠 Passionné par le Machine Learning & l'analyse prédictive  
 🔍 Optimisation des performances & modélisation des données  
 📊 Transformer les données en décisions stratégiques  
