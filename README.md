@@ -11,12 +11,12 @@
 
 ## 🧠 Compétences
 
-| Langages & Data          | Outils & Tech              | Visualisation & BI    | ML & Deep Learning    |
-|--------------------------|----------------------------|-----------------------|-----------------------|
-| Python (Pandas, NumPy)   | Git, GitHub                | Tableau               | TensorFlow            |
-| MATLAB                   | Linux                      | Power BI              | PyTorch               |
-| Java, C                  | Jupyter Notebook           | Matplotlib, Seaborn   | Scikit-learn          |
-| SQL                      | Docker                     |                       |                       |
+| Langages & Data          | Outils & Tech              | Visualisation & BI    | ML & Deep Learning      |
+|--------------------------|----------------------------|-----------------------|-------------------------|
+| Python (Pandas, NumPy)   | Git, GitHub                | Tableau               | TensorFlow              |
+| MATLAB                   | Linux                      | Power BI              | PyTorch                 |
+| Java, C                  | Jupyter Notebook           | Matplotlib            | Scikit-learn            |
+| SQL                      | Docker                     | Seaborn               | XGBoost / Random Forest |
 
 **Bases de données** : SQL, PostgreSQL  
 **Librairies Python** : Pandas, NumPy, Matplotlib, Seaborn
