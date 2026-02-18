@@ -1,9 +1,10 @@
-# 👋 Salut, moi c'est Michel !
+# 👋 Salut, moi c'est Michel Peslier !
 
-🎓 Étudiant à l'ESIEA Paris  
-📚 Alternant en développement – MATLAB & Traitement de données  
-👨‍💻 Passionné par l'IA & la Data Science  
-🎯 Objectif : devenir Data Scientist
+🎯 Data Scientist Junior
+🧠 Passionné par le Machine Learning & l'analyse prédictive
+🔍 Optimisation des performances & modélisation des données
+📊 Transformer les données en décisions stratégiques
+🚀 En quête d'opportunités pour créer de la valeur par la donnée
 
 ---
 
@@ -17,7 +18,7 @@
 | SQL                      | Docker                     |                       |
 
 **Bases de données** : SQL, PostgreSQL  
-**Librairies Python** : Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+**Librairies Python** : Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch
 
 ---
 
